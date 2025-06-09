@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52662140939",
+    "project_id": "mrsysstem",
+    "storage_bucket": "mrsysstem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52662140939:android:de59f3494fe8b44124070e",
+        "android_client_info": {
+          "package_name": "com.example.miniproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwpYzx9MvfOP0p2rqLloPuYN0UBQWgzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
